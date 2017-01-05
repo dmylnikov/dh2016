@@ -1,11 +1,9 @@
 # dh2016
 
 ## Theory
-Reinforcement learning (at the end):
-https://www.udacity.com/course/machine-learning--ud262
+[Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262) - хорошее введение в RL (в конце курса)
 
-Reinforcement learning:
-https://www.udacity.com/course/reinforcement-learning--ud600
+[Reinforcement Learning by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ## Frameworks & examples
 OpenAI Gym [docs](https://gym.openai.com/docs)
